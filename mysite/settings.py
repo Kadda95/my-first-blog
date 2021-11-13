@@ -25,7 +25,7 @@ SECRET_KEY = 'qo%n0j&#!e$#@v8o*d1*+%xlfh(zcf!e+2j)w+jy*e%xla2_95'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'kadda.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'kadda.pythonanywhere.com']
 
 
 # Application definition
